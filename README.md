@@ -15,7 +15,8 @@ O projeto a ser desenvolvido por você tem como objetivo exibir os dados dos art
 ### Instruções iniciais obrigatórias
 
 - O projeto **back-end** deverá ser desenvolvido com uma das tecnologias a seguir: **JVM Java/Kotlin/Scala | Go Lang | Python | Node.js | C# .NET Core**;
-- Criar um banco de dados grátis **MongoDB** usando Atlas: https://www.mongodb.com/cloud/atlas 
+- Criar um banco de dados em memoria
+- Ou banco de dados grátis **MongoDB** usando Atlas: https://www.mongodb.com/cloud/atlas 
 - Ou banco de dados grátis **MySQL** no Heroku: https://elements.heroku.com/addons/jawsdb
 - Ou banco de dados grátis **Postgres** no Heroku: https://elements.heroku.com/addons/heroku-postgresql;
 
